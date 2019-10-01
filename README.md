@@ -1,4 +1,4 @@
-# Internship Journey
+# Internship Curriculum
 > Learning journey of our interns at [Thingylabs](https://thingylabs.business.site/).
 
 - Install/set up Yggdrasil
@@ -25,7 +25,6 @@
 - Explain [Github flavoured Markdown](https://guides.github.com/features/mastering-markdown/).
 - Create a Github page.
 - Explain Gitub social process using Github Stars.
-- Same as Nick in line 5.
 - [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript).
 - Remind them of time tracking.
 - Remind them of note taking.
