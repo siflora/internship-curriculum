@@ -1,5 +1,5 @@
 # Internship Journey
-> Learning journey of our interns @thingylabs.
+> Learning journey of our interns [Thingylabs](https://thingylabs.business.site/).
 
 - Install/set up Yggdrasil
 - Install Git.
