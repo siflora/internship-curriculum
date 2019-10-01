@@ -3,6 +3,8 @@
 
 ![](happy-intern.png)
 
+Preferably done using regular [Chromebooks](https://www.google.com/chromebook/):
+
 - Install/set up [Yggdrasil](https://ygg.thingylabs.io/).
 - Install Git.
 - Check out `random-tree-names`.
