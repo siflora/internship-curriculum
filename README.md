@@ -1,6 +1,8 @@
 # Internship Curriculum
 > Learning journey of our interns at [Thingylabs](https://thingylabs.business.site/).
 
+![](happy-intern.png)
+
 - Install/set up Yggdrasil
 - Install Git.
 - Check out `random-tree-names`.
