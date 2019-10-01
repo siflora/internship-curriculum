@@ -3,7 +3,7 @@
 
 ![](happy-intern.png)
 
-- Install/set up Yggdrasil
+- Install/set up [Yggdrasil](https://ygg.thingylabs.io/).
 - Install Git.
 - Check out `random-tree-names`.
 - Install/set up Docker.
